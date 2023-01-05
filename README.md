@@ -1,4 +1,4 @@
-# HTML Review / Project
+# Marking Up a Letter
 
 Test basic and advanced HTML text formatting, use of hyperlinks, and use of HTML <head>.
 
